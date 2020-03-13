@@ -109,7 +109,7 @@ $green3: #01440C;
             z-index: 1001;
             box-shadow: $box-shadow;
 
-            @media(min-width: 1024px){
+            @media(min-width: 800px){
                 border-radius: $border-radius;
                 position: relative;
                 margin: 0 auto;
